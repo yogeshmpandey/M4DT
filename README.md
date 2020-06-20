@@ -2,15 +2,19 @@
 
 
 <h1 align="center">
-   <img src="https://i.imgur.com/6yPj5TN.png" alt="Mathematics for Digital Technologies" title="Mathematics for Digital Technologies" />
+   <img src="https://i.imgur.com/pvCASTF.png" alt="Mathematics for Digital Technologies" title="Mathematics for Digital Technologies" />
 </h1>
 <p align="center">  
  <a href="https://mybinder.org/v2/gh/yogeshmpandey/M4DT/master?urlpath=lab"><img src="https://mybinder.org/badge_logo.svg"></a>
+<img src="https://www.repostatus.org/badges/latest/wip.svg"></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+<img src="https://img.shields.io/badge/last%20updated-June%202020-3d62d1">
+</p>
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-
- <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-  <img src="https://img.shields.io/badge/last%20updated-June%202020-3d62d1">
+<p align="center">
+  Want to learn the required mathematical backgound need for leanring digital technologies like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
+  This Classrooom has everything that you need to get started! <br><br>
+  <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="https://www.yogeshpandey.in/tech">Personal Page</a>)</span>
 </p>
 
 ## How to Get Started
