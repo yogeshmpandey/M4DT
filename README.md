@@ -25,42 +25,36 @@
 * **Basic of Python and NumPy**
   * Video - [Python Basics](http://www.youtube.com)
   * Video - [Introduction to NumPy and Matplotlib](http://www.youtube.com)
-  * Slides - [Python, NumPy and Matplotlib](http://www.youtube.com)
   * Lab - Basic of Python,NumPy and Matplotlib [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
   
 * **Linear Algebra**
   * Video - [What are Linear Equations?](http://www.youtube.com)
   * Video - [What are Functions?](http://www.youtube.com)
   * Video - [Introduction to Vectors](http://www.youtube.com)
-  * Slides - [Linear Algebra](http://www.youtube.com)
   * Lab - Understanding Linear Algebra [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Introduction to Matrices**
   * Video - [Introduction to Matrices](http://www.youtube.com)
   * Video - [Solving Linear Equations with Matrices](http://www.youtube.com)
   * Video - [What are Eigenvalues and Eigenvectors?](http://www.youtube.com)
-  * Slides - [Introduction to Matrices](http://www.youtube.com)
   * Lab - Introduction to Matrices [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Basics of Calculus**
   * Video - [What is the rate of change?](http://www.youtube.com)
   * Video - [Introduction to differentiation](http://www.youtube.com)
   * Video - [Introduction to Integration](http://www.youtube.com)
-  * Slides - [Basics of Calculus](http://www.youtube.com)
   * Lab - Basics of Calculus [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
   
 * **Statistics and Probability**
   * Video - [Introduction to Statistics](http://www.youtube.com)
   * Video - [Visualizing data](http://www.youtube.com)
   * Video - [Introduction to Probability Theory](http://www.youtube.com)
-  * Slides - [Statistics and Probability](http://www.youtube.com)
   * Lab - Statistics and Probability [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Implementation examples: Predicting Something**
   * Video - [Working with Datasets](http://www.youtube.com)
   * Video - [What is Linear Regression](http://www.youtube.com)
   * Video - [Making Predictions](http://www.youtube.com)
-  * Slides - [Predicting Something](http://www.youtube.com)
   * Lab - Let's Predict something[[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 
