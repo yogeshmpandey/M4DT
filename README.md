@@ -1,5 +1,17 @@
-# Mathematics for Digital Technologies 
+# Mathematics for Digital Technologies
+
+
+<h1 align="center">
+   <img src="https://i.imgur.com/6yPj5TN.png" alt="Mathematics for Digital Technologies" title="Mathematics for Digital Technologies" />
+</h1>
+<p align="center">  
+ <a href="https://mybinder.org/v2/gh/yogeshmpandey/M4DT/master?urlpath=lab"><img src="https://mybinder.org/badge_logo.svg"></a>
+
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
+ <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+  <img src="https://img.shields.io/badge/last%20updated-June%202020-3d62d1">
+</p>
 
 ## How to Get Started
 
@@ -27,48 +39,48 @@ $ jupyter notebook
 
 * **Classroom Overview**
 
-  * Video - [Introduction to Mathematics for Digital Technologies](./presentations/01-Introduction-to-Intel-Smart-Video-Tools_R2_2020.pdf)
+  * Video - [Introduction to Mathematics for Digital Technologies](http://www.youtube.com)
 
 * **Basic of Python and NumPy**
-  * Video - [Python Basics](./presentations/DL_training_model.pdf)
-  * Video - [Introduction to NumPy and Matplotlib](./presentations/DL_training_model.pdf)
-  * Slides - [Python, NumPy and Matplotlib](./presentations/DL_training_model.pdf)
-  * Lab - Basic of Python,NumPy and Matplotlib [[Python](./dl-model-training/Python/Deep_Learning_Tutorial.ipynb)]
+  * Video - [Python Basics](http://www.youtube.com)
+  * Video - [Introduction to NumPy and Matplotlib](http://www.youtube.com)
+  * Slides - [Python, NumPy and Matplotlib](http://www.youtube.com)
+  * Lab - Basic of Python,NumPy and Matplotlib [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
   
 * **Linear Algebra**
-  * Video - [What are Linear Equations?](./presentations/DL_training_model.pdf)
-  * Video - [What are Functions?](./presentations/DL_training_model.pdf)
-  * Video - [Introduction to Vectors](./presentations/DL_training_model.pdf)
-  * Slides - [Linear Algebra](./presentations/DL_training_model.pdf)
-  * Lab - Understanding Linear Algebra [[Python](./dl-model-training/Python/Deep_Learning_Tutorial.ipynb)]
+  * Video - [What are Linear Equations?](http://www.youtube.com)
+  * Video - [What are Functions?](http://www.youtube.com)
+  * Video - [Introduction to Vectors](http://www.youtube.com)
+  * Slides - [Linear Algebra](http://www.youtube.com)
+  * Lab - Understanding Linear Algebra [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Introduction to Matrices**
-  * Video - [Introduction to Matrices](./presentations/DL_training_model.pdf)
-  * Video - [Solving Linear Equations with Matrices](./presentations/DL_training_model.pdf)
-  * Video - [What are Eigenvalues and Eigenvectors?](./presentations/DL_training_model.pdf)
-  * Slides - [Introduction to Matrices](./presentations/DL_training_model.pdf)
-  * Lab - Introduction to Matrices [[Python](./dl-model-training/Python/Deep_Learning_Tutorial.ipynb)]
+  * Video - [Introduction to Matrices](http://www.youtube.com)
+  * Video - [Solving Linear Equations with Matrices](http://www.youtube.com)
+  * Video - [What are Eigenvalues and Eigenvectors?](http://www.youtube.com)
+  * Slides - [Introduction to Matrices](http://www.youtube.com)
+  * Lab - Introduction to Matrices [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Basics of Calculus**
-  * Video - [What is the rate of change?](./presentations/DL_training_model.pdf)
-  * Video - [Introduction to differentiation](./presentations/DL_training_model.pdf)
-  * Video - [Introduction to Integration](./presentations/DL_training_model.pdf)
-  * Slides - [Basics of Calculus](./presentations/DL_training_model.pdf)
-  * Lab - Basics of Calculus [[Python](./dl-model-training/Python/Deep_Learning_Tutorial.ipynb)]
+  * Video - [What is the rate of change?](http://www.youtube.com)
+  * Video - [Introduction to differentiation](http://www.youtube.com)
+  * Video - [Introduction to Integration](http://www.youtube.com)
+  * Slides - [Basics of Calculus](http://www.youtube.com)
+  * Lab - Basics of Calculus [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
   
 * **Statistics and Probability**
-  * Video - [Introduction to Statistics](./presentations/DL_training_model.pdf)
-  * Video - [Visualizing data](./presentations/DL_training_model.pdf)
-  * Video - [Introduction to Probability Theory](./presentations/DL_training_model.pdf)
-  * Slides - [Statistics and Probability](./presentations/DL_training_model.pdf)
-  * Lab - Statistics and Probability [[Python](./dl-model-training/Python/Deep_Learning_Tutorial.ipynb)]
+  * Video - [Introduction to Statistics](http://www.youtube.com)
+  * Video - [Visualizing data](http://www.youtube.com)
+  * Video - [Introduction to Probability Theory](http://www.youtube.com)
+  * Slides - [Statistics and Probability](http://www.youtube.com)
+  * Lab - Statistics and Probability [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Implementation examples: Predicting Something**
-  * Video - [Working with Datasets](./presentations/DL_training_model.pdf)
-  * Video - [What is Linear Regression](./presentations/DL_training_model.pdf)
-  * Video - [Making Predictions](./presentations/DL_training_model.pdf)
-  * Slides - [Predicting Something](./presentations/DL_training_model.pdf)
-  * Lab - Let's Predict something[[Python](./dl-model-training/Python/Deep_Learning_Tutorial.ipynb)]
+  * Video - [Working with Datasets](http://www.youtube.com)
+  * Video - [What is Linear Regression](http://www.youtube.com)
+  * Video - [Making Predictions](http://www.youtube.com)
+  * Slides - [Predicting Something](http://www.youtube.com)
+  * Lab - Let's Predict something[[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
 * **Additional Lessons**
 
