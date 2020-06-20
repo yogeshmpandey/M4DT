@@ -57,7 +57,6 @@
   * Video - [Making Predictions](http://www.youtube.com)
   * Lab - Let's Predict something[[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
-
 <h2 id="introduction">Introduction</h2>
 
 The goal of this classroom is to provide you with necessary mathematical background knowledge help you start your journey into the world of digital technology.  
@@ -66,9 +65,7 @@ The goal of this classroom is to provide you with necessary mathematical backgro
 
 The topics and techniques demonstrated in this classroom are primarily oriented towards learners wanting to learn Mathematical concepts used in the field of Computer Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science and NLP.
 
-<h2 id="codealong">Code along!</h2>
-
-<h3 id="howtouse">How to use this repository?</h3>
+<h2 id="codealong">How to use this repository?</h2>
 
 The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercices and documentation on the topics all in one place. The videos are timestamped so you can skip the parts that you are already familiar with.
 
