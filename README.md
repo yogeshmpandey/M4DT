@@ -14,33 +14,13 @@
   <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="https://www.yogeshpandey.in/tech">Personal Page</a>)</span>
 </p>
 
-## How to Get Started
-
-### 2. Operating System
-
-These labs have been validated on Windows-10
-
-### 3. Software installation steps
-
-* Git
-* Python3-pip
-* Jupyter
-
-### 4. Run the Jupyter Notebook
-
-1. Run the Jupyter Notebook
-
-```bash
-$ jupyter notebook
-```
-
-2. It opens in default browser, locate the required jupyter notebook (.ipynb) file and double click on it to open and run.
-
 ## Table of Contents
 
 * **Classroom Overview**
-
-  * Video - [Introduction to Mathematics for Digital Technologies](http://www.youtube.com)
+  * [Introduction](#introduction)
+    * [Who is this repository for?](#audience)
+    * [How to use this repository?](#codealong)
+    * Video - [Introduction to Mathematics for Digital Technologies](http://www.youtube.com)
 
 * **Basic of Python and NumPy**
   * Video - [Python Basics](http://www.youtube.com)
@@ -83,10 +63,65 @@ $ jupyter notebook
   * Slides - [Predicting Something](http://www.youtube.com)
   * Lab - Let's Predict something[[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
-* **Additional Lessons**
 
-<!--	
-* **Course Survey**
-  - [Course Survey](https://idz.qualtrics.com/jfe/form/SV_a9GvOxtOrOziykB)
-  -->
-> #### Note
+<h2 id="introduction">Introduction</h2>
+
+The goal of this classroom is to provide you with necessary mathematical background knowledge help you start your journey into the world of digital technology.  
+
+<h3 id="audience">Who is this repository for?</h3>
+
+The topics and techniques demonstrated in this classroom are primarily oriented towards learners wanting to learn Mathematical concepts used in the field of Computer Science, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science and NLP.
+
+<h2 id="codealong">Code along!</h2>
+
+<h3 id="howtouse">How to use this repository?</h3>
+
+The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercices and documentation on the topics all in one place. The videos are timestamped so you can skip the parts that you are already familiar with.
+
+You can code along in two ways:
+
+<h3 id="binder"><strong>Option 1:</strong> use Binder</h3>
+
+If you want to experiment with the code in a live environment you can also use `binder`.  
+
+Binder allows to create a live environment where you can execute code just as-if you were on your own computer based on a GitHub repository, it is very awesome!  
+
+Click on the button below to launch binder:
+
+ <a href="https://mybinder.org/v2/gh/yogeshmpandey/M4DT/master?urlpath=lab"><img src="https://mybinder.org/badge_logo.svg"></a>
+
+**Note: you could use binder to complete the exercises but it will not save!!**
+
+<h3 id="clonerepo"><strong>Option 2:</strong> Set up local Python setup</h3>
+
+You can essentially "download" the contents of this repository by cloning the repository or by clicking "Clone or download" button and then "Download ZIP":
+
+<img src="https://i.imgur.com/utFVDVa.png" title="Jupyter Notebook" width = 300px/>
+
+After you download and extracted the zip file into a folder you can follow the [steps](#setup) to set up your local environment:
+
+
+<h2 id="questions">Questions?</h2>
+
+If you have questions or experience problems please use the `issues` tab of this repository.
+
+<h2 id="setup">Running the Classroom Locally</h2>
+
+### 1. Operating System
+
+These labs have been validated on Windows-10. But you can use them in any environement.
+
+### 2. Software installation steps
+
+* Python3-pip
+* Jupyter
+
+### 3. Run the Jupyter Notebook
+
+1. Run the Jupyter Notebook
+
+```bash
+$ py -m notebook
+```
+
+2. It opens in default browser, locate the required jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
