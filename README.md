@@ -11,7 +11,7 @@
 <p align="center">
   Want to learn the required mathematical backgound need for leanring digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
   This Classrooom has everything that you need to get started! <br><br>
-  <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="https://www.yogeshpandey.in/tech">Personal Page</a>)</span>
+  <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="http://yogeshpandey.in/tech/">Personal Page</a>)</span>
 </p>
 
 ## Table of Contents
@@ -78,7 +78,7 @@ The topics and techniques demonstrated in this classroom are primarily oriented 
 
 The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercices and documentation on the topics all in one place. The videos are timestamped so you can skip the parts that you are already familiar with.
 
-You can code along in two ways:
+You can run the classroom content in two ways:
 
 <h3 id="binder"><strong>Option 1:</strong> use Binder</h3>
 
@@ -100,12 +100,7 @@ You can essentially "download" the contents of this repository by cloning the re
 
 After you download and extracted the zip file into a folder you can follow the [steps](#setup) to set up your local environment:
 
-
-<h2 id="questions">Questions?</h2>
-
-If you have questions or experience problems please use the `issues` tab of this repository.
-
-<h2 id="setup">Running the Classroom Locally</h2>
+<h4 id="setup">Running the Classroom Locally</h2>
 
 ### 1. Operating System
 
@@ -125,3 +120,7 @@ $ py -m notebook
 ```
 
 2. It opens in default browser, locate the required jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
+
+<h2 id="questions">Questions?</h2>
+
+If you have questions or experience problems please use the `issues` tab of this repository.
