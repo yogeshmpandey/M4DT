@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Want to learn the required mathematical backgound need for leanring digital technologies like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
+  Want to learn the required mathematical backgound need for leanring digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
   This Classrooom has everything that you need to get started! <br><br>
   <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="https://www.yogeshpandey.in/tech">Personal Page</a>)</span>
 </p>
