@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Want to learn the required mathematical backgound need for leanring digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
+  Want to learn the required mathematical backgound need for learning digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
   This Classrooom has everything that you need to get started! <br><br>
   <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="http://yogeshpandey.in/tech/">Personal Page</a>)</span>
 </p>
@@ -67,7 +67,7 @@ The topics and techniques demonstrated in this classroom are primarily oriented 
 
 <h2 id="codealong">How to use this repository?</h2>
 
-The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercices and documentation on the topics all in one place. The videos are timestamped so you can skip the parts that you are already familiar with.
+The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercises and documentation on the topics all in one place. The videos are timestamped so you can skip the parts that you are already familiar with.
 
 You can run the classroom content in two ways:
 
@@ -75,7 +75,7 @@ You can run the classroom content in two ways:
 
 If you want to experiment with the code in a live environment you can also use `binder`.  
 
-Binder allows to create a live environment where you can execute code just as-if you were on your own computer based on a GitHub repository, it is very awesome!  
+Binder allows to create a live environment where you can execute code just as if you were on your computer based on a GitHub repository, it is very awesome!  
 
 Click on the button below to launch binder:
 
@@ -95,7 +95,7 @@ After you download and extracted the zip file into a folder you can follow the [
 
 ### 1. Operating System
 
-These labs have been validated on Windows-10. But you can use them in any environement.
+These labs have been validated on Windows-10. But you can use them in any environment.
 
 ### 2. Software installation steps
 
@@ -110,7 +110,7 @@ These labs have been validated on Windows-10. But you can use them in any enviro
 $ py -m notebook
 ```
 
-2. It opens in default browser, locate the required jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
+2. It opens in the default browser, locate the required jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
 
 <h2 id="questions">Questions?</h2>
 
