@@ -25,7 +25,7 @@
 * **Basic of Python and NumPy**
   * Video - [Python Basics](http://www.youtube.com)
   * Video - [Introduction to NumPy and Matplotlib](http://www.youtube.com)
-  * Lab - Basic of Python,NumPy and Matplotlib [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
+  * Lab - Basic of Python,NumPy and Matplotlib [[Python](./Basics_of_Python_and_NumPy/Python%20Basics.ipynb)]
   
 * **Linear Algebra**
   * Video - [What are Linear Equations?](http://www.youtube.com)
