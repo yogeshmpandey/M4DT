@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  Want to learn the required mathematical backgound need for learning digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
-  This Classrooom has everything that you need to get started! <br><br>
+  Want to learn the required mathematical background need for learning digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
+  This Classroom has everything that you need to get started! <br><br>
   <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="http://yogeshpandey.in/tech/">Personal Page</a>)</span>
 </p>
 
@@ -23,9 +23,9 @@
     * Video - [Introduction to Mathematics for Digital Technologies](http://www.youtube.com)
 
 * **Basic of Python and NumPy**
-  * Video - [Python Basics](http://www.youtube.com)
+  * Video - [Python Basics](https://www.youtube.com/embed/28-oixCfK9c)
   * Video - [Introduction to NumPy and Matplotlib](http://www.youtube.com)
-  * Lab - Basic of Python,NumPy and Matplotlib [[Python](./Basics_of_Python_and_NumPy/Python%20Basics.ipynb)]
+  * Lab - Basic of Python, NumPy and Matplotlib [[Python](./Basics_of_Python_and_NumPy/Python%20Basics.ipynb)]
   
 * **Linear Algebra**
   * Video - [What are Linear Equations?](http://www.youtube.com)
@@ -67,7 +67,7 @@ The topics and techniques demonstrated in this classroom are primarily oriented 
 
 <h2 id="codealong">How to use this repository?</h2>
 
-The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercises and documentation on the topics all in one place. The videos are timestamped so you can skip the parts that you are already familiar with.
+The Classroom is aimed at providing blended and experiential learning and is written to facilitate learning by doing. You will find the notebooks with embedded videos on the sub-topics, hands-on exercises and documentation on the topics all in one place. The videos are time-stamped so you can skip the parts that you are already familiar with.
 
 You can run the classroom content in two ways:
 
@@ -110,7 +110,7 @@ These labs have been validated on Windows-10. But you can use them in any enviro
 $ py -m notebook
 ```
 
-2. It opens in the default browser, locate the required jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
+2. It opens in the default browser, locate the required Jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
 
 <h2 id="questions">Questions?</h2>
 
