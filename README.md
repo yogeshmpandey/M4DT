@@ -28,8 +28,8 @@
   * Lab - Basic of Python, NumPy and Matplotlib [[Python](./Basics_of_Python_and_NumPy/Python%20Basics.ipynb)]
   
 * **Linear Algebra**
-  * Video - [What are Linear Equations?](http://www.youtube.com)
-  * Video - [What are Functions?](http://www.youtube.com)
+  * Video - [What are Linear Equations?](https://www.youtube.com/watch?v=CWByMDHyTos)
+  * Video - [What are Functions?](https://www.youtube.com/watch?v=P3LsdcjqS8s)
   * Video - [Introduction to Vectors](http://www.youtube.com)
   * Lab - Understanding Linear Algebra [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
 
