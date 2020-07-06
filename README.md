@@ -5,7 +5,7 @@
  <a href="https://mybinder.org/v2/gh/yogeshmpandey/M4DT/master?urlpath=lab"><img src="https://mybinder.org/badge_logo.svg"></a>
 <img src="https://www.repostatus.org/badges/latest/wip.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License%20-Apache%20License%202.0-orange"></a>
-<img src="https://img.shields.io/badge/last%20updated-June%202020-3d62d1">
+<img src="https://img.shields.io/badge/last%20updated-July%202020-3d62d1">
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@
   * Video - [What are Linear Equations?](https://www.youtube.com/watch?v=CWByMDHyTos)
   * Video - [What are Functions?](https://www.youtube.com/watch?v=P3LsdcjqS8s)
   * Video - [Introduction to Vectors](http://www.youtube.com/watch?v=CMJlwIobuF4)
-  * Lab - Understanding Linear Algebra [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
+  * Lab - Understanding Linear Algebra [[Python](./Equations_Functions_Vectors/Equations_Functions_Vectors.ipynb)]
 
 * **Introduction to Matrices**
   * Video - [Introduction to Matrices](http://www.youtube.com)
   * Video - [Solving Linear Equations with Matrices](http://www.youtube.com)
   * Video - [What are Eigenvalues and Eigenvectors?](http://www.youtube.com)
-  * Lab - Introduction to Matrices [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
+  * Lab - Introduction to Matrices [[Python](./Introduction_to_Matrices/Introduction_to_Matrices.ipynb)]
 
 * **Basics of Calculus**
   * Video - [What is the rate of change?](http://www.youtube.com)
