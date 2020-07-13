@@ -34,16 +34,16 @@
   * Lab - Understanding Linear Algebra [[Python](./Equations_Functions_Vectors/Equations_Functions_Vectors.ipynb)]
 
 * **Introduction to Matrices**
-  * Video - [Introduction to Matrices](http://www.youtube.com)
-  * Video - [Solving Linear Equations with Matrices](http://www.youtube.com)
-  * Video - [What are Eigenvalues and Eigenvectors?](http://www.youtube.com)
+  * Video - [Introduction to Matrices](https://www.youtube.com/watch?v=DQUIj5XoDao)
+  * Video - [Solving Linear Equations with Matrices](https://www.youtube.com/watch?v=Vq1tSPVQcPs)
+  * Video - [What are Eigenvalues and Eigenvectors?](https://www.youtube.com/watch?v=0Y1xztCb434)
   * Lab - Introduction to Matrices [[Python](./Introduction_to_Matrices/Introduction_to_Matrices.ipynb)]
 
 * **Basics of Calculus**
-  * Video - [What is the rate of change?](http://www.youtube.com)
-  * Video - [Introduction to differentiation](http://www.youtube.com)
-  * Video - [Introduction to Integration](http://www.youtube.com)
-  * Lab - Basics of Calculus [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
+  * Video - [What is the rate of change?](https://www.youtube.com/watch?v=K2jQ0AGbYaA)
+  * Video - [Introduction to differentiation](https://www.youtube.com/watch?v=a5WVw9vmGHU)
+  * Video - [Introduction to Integration](https://www.youtube.com/watch?v=5pwZchmmgF0)
+  * Lab - Basics of Calculus [[Python](./Basics_of_Calculus/Basics_of_Calculus.ipynb)]
   
 * **Statistics and Probability**
   * Video - [Introduction to Statistics](http://www.youtube.com)
