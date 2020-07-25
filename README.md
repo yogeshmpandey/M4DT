@@ -46,16 +46,15 @@
   * Lab - Basics of Calculus [[Python](./Basics_of_Calculus/Basics_of_Calculus.ipynb)]
   
 * **Statistics and Probability**
-  * Video - [Introduction to Statistics](http://www.youtube.com)
-  * Video - [Visualizing data](http://www.youtube.com)
-  * Video - [Introduction to Probability Theory](http://www.youtube.com)
-  * Lab - Statistics and Probability [[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
+  * Video - [Introduction to Statistics](https://www.youtube.com/watch?v=1JYGdI58xuU)
+  * Video - [Visualizing data](https://www.youtube.com/watch?v=1etMjhxH_e8)
+  * Video - [Introduction to Probability Theory](https://www.youtube.com/watch?v=TLGYsch6YFA)
+  * Lab - Statistics and Probability [[Python](./Statistics_and_Probability/Statistics_and_Probability.ipynb)]
 
 * **Implementation examples: Predicting Something**
-  * Video - [Working with Datasets](http://www.youtube.com)
-  * Video - [What is Linear Regression](http://www.youtube.com)
-  * Video - [Making Predictions](http://www.youtube.com)
-  * Lab - Let's Predict something[[Python](./Basics_of_Python_and_Numpy/Basics_of_Python_and_Numpy.ipynb)]
+  * Video - [Making Predictions](https://www.youtube.com/watch?v=OxMNNjp-mDw)
+  * Lab - Predicting Housing Prices[[Python](./Implementation_Examples_Predicting_Something/Implementation_Examples_Predicting_Something.ipynb)]
+
 
 <h2 id="introduction">Introduction</h2>
 
