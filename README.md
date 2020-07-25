@@ -20,7 +20,6 @@
   * [Introduction](#introduction)
     * [Who is this repository for?](#audience)
     * [How to use this repository?](#codealong)
-    * Video - [Introduction to Mathematics for Digital Technologies](http://www.youtube.com)
 
 * **Basic of Python and NumPy**
   * Video - [Python Basics](https://www.youtube.com/embed/28-oixCfK9c)
