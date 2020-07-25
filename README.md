@@ -3,7 +3,7 @@
 </h1>
 <p align="center">  
  <a href="https://mybinder.org/v2/gh/yogeshmpandey/M4DT/master?urlpath=lab"><img src="https://mybinder.org/badge_logo.svg"></a>
-<img src="https://www.repostatus.org/badges/latest/wip.svg"></a>
+<img src="https://www.repostatus.org/badges/latest/active.svg"></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License%20-Apache%20License%202.0-orange"></a>
 <img src="https://img.shields.io/badge/last%20updated-July%202020-3d62d1">
 </p>
